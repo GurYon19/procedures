@@ -3,7 +3,7 @@
 each project should have env.yml to install the packages faster <br />
 # create env yml:<br />
 conda env export --my_env - --file environment.yml <br />
-create conda env using yml: conda env create --file environment.yml <br />
+create conda env using yml: conda env create --file environment.yml ot conda env create -f .\environment.yml <br />
 
 
  for more info: <br />
